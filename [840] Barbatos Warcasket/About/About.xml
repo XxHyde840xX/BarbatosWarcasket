@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>WarCasket Gundam Addon</name>
-  <author>Tach</author>
+  <name>WarCasket Barbatos Gundam Addon (Continued)</name>
+  <author>Tach/XxHyde840xX</author>
   <url>
   </url>
   <supportedVersions>
@@ -18,6 +18,18 @@
   <loadAfter>
     <li>OskarPotocki.VFE.Pirates</li>
   </loadAfter>
-  <packageId>Tach.GWarCasket</packageId>
-  <description>Add Gundam WarCasket armour.</description>
+  <packageId>840.Tach.GWarCasket</packageId>
+  <description>  - Adds Gundam Barbatos WarCasket armour. Includes the iconic Mace, Katana, 300mm and Smoothbore Rifle as weapons.
+  
+  - Movement speed offsets changed from a debuff to a buff. All armor pieces provide 0.25c/s move speed increase.
+  
+  - Toxic Resistance and Environmental Toxic Resistance Values applied to all 4 pieces of armor.
+  
+  -------------------------------------------
+  
+  - This is considered a temporary upload.
+  
+  - If the author wishes at any time to continue the project, or for me to remove it from the workshop, I will comply with their request.
+		
+		- XxHyde840</description>
 </ModMetaData>
