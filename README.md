@@ -1,2 +1,2 @@
 # BarbatosWarcasket
-Barbatos Warcasket - Tweaked defs to fix the old ToxicSensitivity stuff and tweaked values to make it speedier.
+Barbatos Warcasket - Tweaked defs add in Tox Resistance and tweaked values to make it speedier.
