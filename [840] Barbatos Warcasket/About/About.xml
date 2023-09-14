@@ -19,11 +19,15 @@
     <li>OskarPotocki.VFE.Pirates</li>
   </loadAfter>
   <packageId>840.Tach.GWarCasket</packageId>
-  <description>  - Adds Gundam Barbatos WarCasket armour. Includes the iconic Mace, Katana, 300mm and Smoothbore Rifle as weapons.
+  <description>  - Adds Gundam Barbatos WarCasket armour. Includes the iconic Mace, Katana, and 300mm Smoothbore Rifle as weapons.
   
   - Movement speed offsets changed from a debuff to a buff. All armor pieces provide 0.25c/s move speed increase.
   
   - Toxic Resistance and Environmental Toxic Resistance Values applied to all 4 pieces of armor.
+  
+  - If you are still on version 1.3 of Rimworld, please use the original mod.
+  
+  - The original mod can be found here: https://steamcommunity.com/sharedfiles/filedetails/?id=2764647883
   
   -------------------------------------------
   
@@ -31,5 +35,5 @@
   
   - If the author wishes at any time to continue the project, or for me to remove it from the workshop, I will comply with their request.
 		
-		- XxHyde840</description>
+  - XxHyde840</description>
 </ModMetaData>
